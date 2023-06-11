@@ -1,0 +1,52 @@
+header-bg {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1e/RPC-JP_Logo.pngx');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: #ffffff;
+    text-align: center;
+  }
+  .header-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .header-title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .header-subtitle {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .btn-primary {
+    background-color: #337ab7;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #23527c;
+  }
+  /* Estilos de las secciones de contenido */
+.section {
+    padding: 80px 0;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .section-subtitle {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
